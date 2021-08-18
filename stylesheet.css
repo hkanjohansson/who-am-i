@@ -1,5 +1,9 @@
 body {
     background-color: rgba(155, 147, 149, 0.603);
+    /*Style machine learning section*/
+    text-align: center;
+    
+    
 }
 
 h1 {
@@ -12,4 +16,8 @@ h2 {
 
 h3 {
     text-align: center;
+}
+
+iframe {
+    
 }
