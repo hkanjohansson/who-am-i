@@ -26,6 +26,12 @@ h3 {
     font-size: 18px;
 }
 
+#introduction {
+    text-align: left;
+    font-size: 18px;
+}
+
 #construction {
     color: red;
+    text-align: center;
 }
