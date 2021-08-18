@@ -1,23 +1,31 @@
 body {
     background-color: rgba(226, 218, 220, 0.603);
     /*Style machine learning section*/
-    text-align: center;
-    
+    text-align: left;
+    margin: 15%;
     
 }
 
 h1 {
-    text-align: center;
+    text-align: left;
+    font-size: 30px;
 }
 
 h2 {
-    text-align: center;
+    text-align: left;
+    font-size: 24px;
 }
 
 h3 {
-    text-align: center;
+    text-align: left;
+    font-size: 20px;
 }
 
 #programming {
     text-align: left;
+    font-size: 18px;
+}
+
+#construction {
+    color: red;
 }
