@@ -3,33 +3,31 @@ body {
     /*Style machine learning section*/
     text-align: left;
     margin: 15%;
+    font-size: 18px;
     
 }
 
 h1 {
     text-align: left;
-    font-size: 30px;
+    font-size: 34px;
 }
 
 h2 {
     text-align: left;
-    font-size: 24px;
+    font-size: 30px;
 }
 
 h3 {
     text-align: left;
-    font-size: 20px;
+    font-size: 24px;
 }
 
-#programming {
+
+h4 {
     text-align: left;
-    font-size: 18px;
+    font-size: 22px;
 }
 
-#introduction {
-    text-align: left;
-    font-size: 18px;
-}
 
 #construction {
     color: red;
